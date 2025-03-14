@@ -1,0 +1,36 @@
+_repo: Vingt-jours-en-Tunisie_75517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arène, Paul
+    aliases:
+    - Arène, Paul Auguste
+    - Arene, Paul Auguste
+    birthdate: 1843
+    deathdate: 1896
+    gutenberg_agent_id: '39763'
+    url: http://www.gutenberg.org/2009/agents/39763
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Ar%C3%A8ne
+    - https://fr.wikipedia.org/wiki/Paul_Ar%C3%A8ne
+description: ''
+gutenberg_issued: '2025-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75517'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k104918f
+pgterms:marc905: 20231220130028arne
+pgterms:marc906: '1884'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aParis :$bAlphonse Lemerre, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vingt jours en Tunisie
+url: http://www.gutenberg.org/ebooks/75517
