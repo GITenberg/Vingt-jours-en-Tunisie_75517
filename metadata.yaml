@@ -1,5 +1,8 @@
 _repo: Vingt-jours-en-Tunisie_75517
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75517-h/images/cover.jpg
 creator:
   author:
     agent_name: Arène, Paul
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Ar%C3%A8ne
     - https://fr.wikipedia.org/wiki/Paul_Ar%C3%A8ne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75517#Vingt-jours-en-Tunisie
 gutenberg_issued: '2025-03-03'
 gutenberg_type: Text
 identifiers:
